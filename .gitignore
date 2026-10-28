@@ -1,0 +1,22 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Crash logs
+*.log
+hs_err_pid*
+
+# Signing keys (never commit these)
+*.jks
+*.keystore
+
+# Build outputs (share APKs via GitHub Releases instead)
+*.apk
+*.aab

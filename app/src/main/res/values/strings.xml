@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Mind</string>
+    <color name="button_color">#17a4b3</color>
+    <color name="button_text_color">#FFFFFF</color>
+</resources>
